@@ -1,5 +1,5 @@
 #include<sdtio.h>
 int main(){
-printf("Hello World");
+printf("Hell World");
 printf("This is my first repository\n");
 }
